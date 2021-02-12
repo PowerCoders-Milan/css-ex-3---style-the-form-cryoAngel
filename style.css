@@ -1,6 +1,6 @@
 /* Use Selectors and attributes for the HTML design */
 hr{
-    border-top: 10px solid rgb(0, 0, 0);
+    border-top: 2px solid rgb(0, 0, 0);
 
 }
 div{
@@ -63,6 +63,6 @@ input[type=checkbox]{
 } 
 .line{
     border-top: 20px solid rgb(0, 0, 0);
-    padding: 10px;
-    margin-left: 50px; 
+    padding: 50px;
+    margin-right: 575px; 
 } 
