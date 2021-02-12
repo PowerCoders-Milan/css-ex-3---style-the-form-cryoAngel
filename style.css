@@ -1,6 +1,7 @@
 /* Use Selectors and attributes for the HTML design */
 hr{
-    border-top: 10px solid rgb(0, 0, 0); 
+    border-top: 10px solid rgb(0, 0, 0);
+
 }
 div{
     padding: 20px;
@@ -11,7 +12,7 @@ input[type=text]{
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 10px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
 } 
@@ -20,7 +21,7 @@ input[type=fname]{
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 10px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
 } 
@@ -29,7 +30,7 @@ input[type=lname]{
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 10px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
 } 
@@ -38,13 +39,30 @@ input[type=date]{
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 10px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box; 
 } 
 input[type=checkbox]{
-    
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 10px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
 }
 input[type=checkbox]{
-    
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 10px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+} 
+.line{
+    border-top: 20px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin-left: 50px; 
 } 
