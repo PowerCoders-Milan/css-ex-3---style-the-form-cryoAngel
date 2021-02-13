@@ -1,50 +1,72 @@
-/* Use Selectors and attributes for the HTML design */
-hr{
-    border-top: 2px solid rgb(0, 0, 0);
 
-}
 div{
     padding: 20px;
-    margin: 50px;
-}   
+    margin-block:-69px;
+    margin-top: 5px;
+    margin-right: 50px;
+} 
+fieldset{
+border-top: 8px solid black;
+border-left: 0;
+border-right: 0;
+border-bottom: 0;
+padding: 20px;
+}  
+input{
+
+}  
 input[type=text]{
-    width: 100%;
+    width: 50%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
   border: 10px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  margin-left: 322px;
 } 
 input[type=fname]{
-    width: 100%;
+    width: 50%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
   border: 10px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  margin-left: 278px;
 } 
 input[type=lname]{
-    width: 100%;
+    width: 50%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
   border: 10px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  margin-left: 281px;
 } 
 input[type=date]{
-    width: 100%;
+    width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 10px solid #ccc;
     border-radius: 4px;
-    box-sizing: border-box; 
+    box-sizing: border-box;
+    margin-left: 289px; 
 } 
 input[type=checkbox]{
-    width: 100%;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 10px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+}
+input[type=checkbox]{
+    width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -52,17 +74,47 @@ input[type=checkbox]{
     border-radius: 4px;
     box-sizing: border-box;
 }
-input[type=checkbox]{
-    width: 100%;
+input[type=tel]{
+    width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 10px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    margin-left: 247px;
+} 
+input[type=email]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 10px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 312px ;
+} 
+input[type=number]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 10px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 323px; 
+} 
+select{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 10px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;  
 } 
 .line{
     border-top: 20px solid rgb(0, 0, 0);
-    padding: 50px;
-    margin-right: 575px; 
+    padding: 0px;
+    margin-right: 70%; 
 } 
