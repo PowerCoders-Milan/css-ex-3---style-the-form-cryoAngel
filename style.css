@@ -12,9 +12,15 @@ border-right: 0;
 border-bottom: 0;
 padding: 20px;
 }  
+label{
+    margin: 60px 0px;
+}
 /*input{
 
 } */ 
+h4{
+    position: 20px;
+}
 input[type=text]{
     width: 50%;
   padding: 12px 20px;
@@ -115,6 +121,16 @@ input[type=texts]{
     box-sizing: border-box;
     margin-left: 220px; 
 } 
+button{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border-bottom: 10px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 295px; 
+}
 select{
     width: 50%;
     padding: 12px 20px;
